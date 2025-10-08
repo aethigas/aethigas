@@ -47,7 +47,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=2&section=footer" width="75%" alt="divider"/>
 </div>
 
-### 🧩 Contributions
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph-dark.svg">
