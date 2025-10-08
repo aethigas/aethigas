@@ -28,9 +28,15 @@
 
 ### 📊 Languages
 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+    height="165"
+  /> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=2&section=footer" width="75%" alt="divider"/>
