@@ -29,7 +29,7 @@
 ### 📊 Languages
 
  
-<div align="center gap-5">
+<div align="center" className+"gap-5">
   <img
     src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
