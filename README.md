@@ -8,6 +8,9 @@
 </div>
 
 
+<div align="center">
+  <img src="https://i.gifer.com/origin/9d/9d1fd1a1f21b6c6f42425100415b8e2d.gif" width="80%" alt="animated divider" />
+</div>
 
 ### Technologies:
 
