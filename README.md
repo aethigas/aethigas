@@ -1,11 +1,6 @@
 <h1 align="center">Hi! I'm Thiago </h1>
 
-<p align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f549b2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Front-end+developer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</p>
-  <p align="center">Student of Systems Development - SENAI<br></p>
+
 <!--
 **aethigas/aethigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
