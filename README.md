@@ -33,7 +33,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
-    height="130"
+    height="110"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aethigas&layout=compact&theme=tokyonight&langs_count=8"
