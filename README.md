@@ -68,5 +68,5 @@
 
 <!--
 **aethigas/aethigas** is a ✨ special ✨ repository be
-cause its README.md (this file) appears on your GitHub profile.
+cause its `README.md` (this file) appears on your GitHub profile.
 --> 
