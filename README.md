@@ -1,5 +1,4 @@
 <h1 align="center">Hi! I'm Thiago </h1>
-###
 
 
 ### Technologies I use:
@@ -32,8 +31,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
-## Education
+ Education
 - Systems Development - SENAI (2024-2025)
 
 ---
