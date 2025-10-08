@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Thiago </h1>
+<h1 align="center">Hi! I'm Thiago 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,33 +7,36 @@
   </a>
 </div>
 
-
 <div align="center">
-  <img src="https://i.gifer.com/origin/9d/9d1fd1a1f21b6c6f42425100415b8e2d.gif" width="80%" alt="animated divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=2&section=footer" width="80%" alt="purple divider"/>
 </div>
 
-### Technologies:
+### 🧠 Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo rounded-full" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwind logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=2&section=footer" width="80%" alt="purple divider"/>
+</div>
 
-### Languages:
+### 📊 Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=2&section=footer" width="80%" alt="purple divider"/>
+</div>
 
----
+### 🕹️ Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph-dark.svg">
@@ -41,21 +44,20 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=2&section=footer" width="80%" alt="purple divider"/>
+</div>
 
- Education
-- Systems Development - SENAI (2024-2025)
+### 🎓 Education
 
----
+- Systems Development - **SENAI (2024–2025)**  
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6A0DAD&height=100&section=footer" width="100%" alt="wave divider"/>
+</div>
 
-
-
-
-
-###
 <!--
-**aethigas/aethigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aethigas/aethigas** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
