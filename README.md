@@ -1,6 +1,12 @@
 <h1 align="center">Hi! I'm Thiago </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 <!--
 **aethigas/aethigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
