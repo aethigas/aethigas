@@ -28,12 +28,14 @@
 
 ### 📊 Languages
 
-  <img
+ 
+<div align="center">
+ <img
     src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
     height="165"
   /> 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
