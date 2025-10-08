@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Thiago </h1>
 
 
-### Technologies I use:
+### Technologies:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo rounded-full" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwind logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" />
@@ -14,7 +14,7 @@
 
 ---
 
-### Most used technologies:
+### Languages:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
