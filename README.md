@@ -29,11 +29,11 @@
 ### 📊 Languages
 
  
-<div align="center" className+"gap-5">
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
-    height="165"
+    height="130"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aethigas&layout=compact&theme=tokyonight&langs_count=8"
