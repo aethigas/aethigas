@@ -26,13 +26,14 @@
 
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aethigas/aethigas/output/pacman-contribution-graph.svg">
-</picture>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
 ---
+
  Education
 - Systems Development - SENAI (2024-2025)
 
