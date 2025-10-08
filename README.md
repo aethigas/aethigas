@@ -52,9 +52,7 @@
 
 - Systems Development — **SENAI (2024–2025)**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=1E3A8A&height=100&section=footer" width="100%" alt="wave divider"/>
-</div>
+
 
 <!--
 **aethigas/aethigas** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
