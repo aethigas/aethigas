@@ -13,6 +13,7 @@
 
 ### 💻 Technologies
 
+<div align="center">
 ![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
@@ -22,6 +23,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Shadcn](https://img.shields.io/badge/-Shadcn-000?style=for-the-badge&logo=shadcn)
+</div>
 </div>
 
 ### Infos 
