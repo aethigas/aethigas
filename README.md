@@ -1,11 +1,20 @@
 <h1 align="center">Hi! I'm Thiago 👋</h1>
 
+<h1 align="center">Hi! I'm Thiago 👋</h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E3A8A&background=00000000&center=true&width=600&lines=Frontend+Developer" 
-         alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&duration=2500&color=1E40AF&background=00000000&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+Frontend+Developer+%F0%9F%92%A1"
+      alt="Typing SVG"
+    />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=2&section=footer" width="75%" alt="divider"/>
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=2&section=footer" width="75%" alt="divider"/>
