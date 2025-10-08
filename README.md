@@ -17,15 +17,10 @@
 ### Most used technologies:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aethigas&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aethigas&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 </p>
-
-
----
-
 
 ---
 
